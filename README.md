@@ -20,7 +20,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/marchieliz/marchieliz/output/snake.svg" alt="Snake animation" />
 
 ###
 
